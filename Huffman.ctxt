@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Huffman
+comment1.params=
+comment1.target=Huffman()
+comment2.params=text
+comment2.target=Huffman(java.lang.String)
+comment3.params=
+comment3.target=void\ create()
+comment4.params=word
+comment4.target=Element[]\ Haeufigkeitsanalyse(java.lang.String)
+comment5.params=
+comment5.target=void\ sortieren()
+numComments=6

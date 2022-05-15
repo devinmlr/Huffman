@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Zahlomat
+comment1.params=
+comment1.target=Zahlomat()
+comment2.params=data
+comment2.target=Zahlomat(int[])
+comment3.params=
+comment3.target=int\ maximum()
+comment4.params=
+comment4.target=void\ sortieren()
+comment5.params=
+comment5.target=int[]\ getSorted()
+numComments=6
